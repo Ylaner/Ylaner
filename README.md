@@ -43,7 +43,9 @@ Email: ylanerofficial@gmail.com
 
 <br />
 
-START_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 name: Waka Readme
 
 on:
@@ -57,7 +59,6 @@ steps: - uses: anmol098/waka-readme-stats@master
 with:
 WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 GH_TOKEN: ${{ secrets.GH_TOKEN }}
-END_SECTION:waka
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
