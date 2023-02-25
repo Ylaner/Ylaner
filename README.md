@@ -1,4 +1,4 @@
-# Hi there, I'm Yasin 👋
+# Hi there, I'm Yasin - aka [Ylaner] 👋
 
 ## I'm a Fullstack Web developer!!
 
