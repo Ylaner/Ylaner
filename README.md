@@ -20,21 +20,20 @@
   </p>
 </p>
 
-  <p align="left">
-  <a href="https://github.com/ashawe/github-readme-stats">
-    <img width="420" align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api?username=ashawe&show_icons=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/ashawe/github-readme-stats">
-    <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=ashawe&layout=compact&hide_border=true" />
-  </a>
-  </p>
-
 <p>
   📣 Connect With Me :<br/>
   <a href="ylanerofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/Ylaner"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <!-- <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 </p>
+<br />
+
+<p>
+<a href="https://github.com/ashawe/github-readme-stats">
+  <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=Ylaner&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</a>
+</p>
+
 <br />
 
 ## ⚡️ About ME ⚡️
