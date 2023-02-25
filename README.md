@@ -20,6 +20,15 @@
   </p>
 </p>
 
+  <p align="left">
+  <a href="https://github.com/ashawe/github-readme-stats">
+    <img width="420" align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api?username=ashawe&show_icons=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/ashawe/github-readme-stats">
+    <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=ashawe&layout=compact&hide_border=true" />
+  </a>
+  </p>
+
 <p>
   📣 Connect With Me :<br/>
   <a href="ylanerofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
