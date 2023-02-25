@@ -1,4 +1,4 @@
-# Hi there, I'm Yasin - aka [Ylaner][youtube] 👋
+# Hi there, I'm Yasin 👋
 
 ## I'm a Fullstack Web developer!!
 
@@ -28,8 +28,8 @@
 [![website](./img/discord2.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp; -->
 
-[![website](./img/telegram.svg)](https://t.me/Ylaner_Source#gh-light-mode-only)
-[![website](./img/telegram-dark.svg)](https://t.me/Ylaner_Source#gh-dark-mode-only)
+<!-- [![website](./img/telegram.svg)](https://t.me/Ylaner_Source#gh-light-mode-only)
+[![website](./img/telegram-dark.svg)](https://t.me/Ylaner_Source#gh-dark-mode-only) -->
 
 <!-- &nbsp;&nbsp;
 [![website](./img/spotify.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
