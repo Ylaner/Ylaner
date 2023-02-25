@@ -30,37 +30,11 @@
 
 ## ⚡️ About ME ⚡️
 
-- 🧔 I'm Yasin - aka [Ylaner].I am a 20 years old Developer
+- 🧔 I'm Yasin - aka [Ylaner]. I am a 20 years old Developer
 - 🌱 I’m currently learning Nodejs and React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Become a master on both frontend and backend
 - ⚡ Fun fact: I love games and music too!
-
-<!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
-
-<!-- [![website](./img/download.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/discord2.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-
-<!-- [![website](./img/telegram.svg)](https://t.me/Ylaner_Source#gh-light-mode-only)
-[![website](./img/telegram-dark.svg)](https://t.me/Ylaner_Source#gh-dark-mode-only) -->
-
-<!-- &nbsp;&nbsp;
-[![website](./img/spotify.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/spotify-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 
 <br />
 <br />
