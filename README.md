@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/TypeScript-007ACC?flat-square&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?flat-square&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/React-20232A?flat-square&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Deno-464647?flat-square&logo=deno&logoColor=white">
     <br/>
+    <img src="https://img.shields.io/badge/Deno-464647?flat-square&logo=deno&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?flat-square&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
@@ -45,20 +45,6 @@ Email: ylanerofficial@gmail.com
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-name: Waka Readme
-
-on:
-schedule: # Runs at 12am IST - cron: '30 18 \* \* \*'
-workflow_dispatch:
-jobs:
-update-readme:
-name: Update Readme with Metrics
-runs-on: ubuntu-latest
-steps: - uses: anmol098/waka-readme-stats@master
-with:
-WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
