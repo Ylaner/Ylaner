@@ -28,14 +28,6 @@
 </p>
 <br />
 
-<p>
-<a href="https://github.com/ashawe/github-readme-stats">
-  <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=Ylaner&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</a>
-</p>
-
-<br />
-
 ## ⚡️ About ME ⚡️
 
 - 🧔 I'm Yasin - aka [Ylaner]. I am a 20 years old Developer
@@ -51,8 +43,13 @@ Email: ylanerofficial@gmail.com
 
 <br />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p>
+<a href="https://github.com/ashawe/github-readme-stats">
+  <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=Ylaner&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</a>
+</p>
+
+<br />
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
