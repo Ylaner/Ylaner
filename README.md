@@ -1,5 +1,5 @@
 <p>
-  <img align="left" alt="Ylaner's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ylaner&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Ylaner's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ylaner&show_icons=true&line_height=20&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   <p >  
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=flat-square&logo=Udemy&logoColor=white">
     <img src="https://img.shields.io/badge/-Java-EC4D37?style=flat-square&logo=java&logoColor=white"/>
