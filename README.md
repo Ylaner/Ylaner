@@ -1,7 +1,6 @@
 <p>
   <img align="left" width="430" height="190" alt="Ylaner's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ylaner&show_icons=true&hide_border=false&line_height=20&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-  <p >  
-    <img src="https://img.shields.io/badge/Udemy-EC5252?style=flat-square&logo=Udemy&logoColor=white">
+  <p > 
     <img src="https://img.shields.io/badge/-Java-EC4D37?style=flat-square&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -30,7 +29,7 @@
 
 ## ⚡️ About ME ⚡️
 
-- 🧔 I'm Yasin - aka [Ylaner]. I am a 20 years old Developer
+- 🧔 I'm Yasin - aka [Ylaner]. I am a 21 years old Seft-Taught Developer.
 - 🌱 I’m currently learning Nodejs and React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Become a master on both frontend and backend
@@ -38,9 +37,9 @@
 
 <br />
 
-🔗 Contact Me At:
+🔗 Contact Me At:<br />
 Email: ylanerofficial@gmail.com
-
+Telegram: https://t.me/Ylaner
 <br />
 
 <p>
@@ -50,14 +49,3 @@ Email: ylanerofficial@gmail.com
 </p>
 
 <br />
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
