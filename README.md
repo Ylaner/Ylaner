@@ -39,7 +39,7 @@
 
 🔗 Contact Me At:<br />
 Email: ylanerofficial@gmail.com<br />
-Telegram: https://t.me/Ylaner
+Telegram: t.me/Ylaner
 <br />
 <br />
 
