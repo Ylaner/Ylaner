@@ -38,8 +38,9 @@
 <br />
 
 🔗 Contact Me At:<br />
-Email: ylanerofficial@gmail.com
+Email: ylanerofficial@gmail.com<br />
 Telegram: https://t.me/Ylaner
+<br />
 <br />
 
 <p>
