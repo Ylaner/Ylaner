@@ -29,7 +29,7 @@
 
 ## ⚡️ About ME ⚡️
 
-- 🧔 I'm Yasin - aka [Ylaner]. I am a 21 years old Seft-Taught Developer.
+- 🧔 I'm Yasin - aka [Ylaner]. I am a 21 years old Self-Taught Developer.
 - 🌱 I’m currently learning Nodejs and React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Become a master on both frontend and backend
