@@ -33,7 +33,6 @@
 - 🌱 I’m currently learning Nodejs and React
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Become a master on both frontend and backend
-- ⚡ Fun fact: I love games and music too!
 
 <br />
 
@@ -45,7 +44,7 @@ Telegram: https://t.me/Ylaner
 
 <p>
 <a href="https://github.com/ashawe/github-readme-stats">
-  <img align="left" alt="ashawe's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=Ylaner&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="ylaner's Github Stats" src="https://github-readme-stats.ashawe.vercel.app/api/top-langs/?username=Ylaner&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 </a>
 </p>
 
